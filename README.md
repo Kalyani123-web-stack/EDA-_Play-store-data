@@ -1,1 +1,2 @@
 # EDA-_Play-store-data
+Performed Exploratory Data Analysis on Google Play Store data to uncover trends in app categories, user ratings, reviews, installs, and pricing. Cleaned and transformed key columns such as Size, Installs, and Price for accurate analysis. Identified that most apps are free, belong to categories like 'Family' and 'Games', and that higher user engagement is often linked to better ratings. Visualized relationships between app features to extract insights on user behavior and app performance.
